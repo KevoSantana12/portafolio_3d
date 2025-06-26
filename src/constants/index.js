@@ -4,26 +4,19 @@ import {
     contact,
     css,
     estate,
-    express,
     git,
     github,
     html,
     javascript,
     linkedin,
-    mongodb,
-    motion,
-    mui,
-    nextjs,
-    nodejs,
     pricewise,
     react,
-    redux,
-    sass,
     snapgram,
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    spring_boot
 } from "../assets/icons";
 
 export const skills = [
@@ -31,11 +24,6 @@ export const skills = [
         imageUrl: css,
         name: "CSS",
         type: "Frontend",
-    },
-    {
-        imageUrl: express,
-        name: "Express",
-        type: "Backend",
     },
     {
         imageUrl: git,
@@ -58,43 +46,8 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: mongodb,
-        name: "MongoDB",
-        type: "Database",
-    },
-    {
-        imageUrl: motion,
-        name: "Motion",
-        type: "Animation",
-    },
-    {
-        imageUrl: mui,
-        name: "Material-UI",
-        type: "Frontend",
-    },
-    {
-        imageUrl: nextjs,
-        name: "Next.js",
-        type: "Frontend",
-    },
-    {
-        imageUrl: nodejs,
-        name: "Node.js",
-        type: "Backend",
-    },
-    {
         imageUrl: react,
         name: "React",
-        type: "Frontend",
-    },
-    {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
-    },
-    {
-        imageUrl: sass,
-        name: "Sass",
         type: "Frontend",
     },
     {
@@ -106,6 +59,11 @@ export const skills = [
         imageUrl: typescript,
         name: "TypeScript",
         type: "Frontend",
+    },
+    {
+        imageUrl: spring_boot,
+        name: "Spring Boot",
+        type: "Backend",
     }
 ];
 
@@ -173,7 +131,7 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/KevoSantana12',
     },
     {
         name: 'LinkedIn',
