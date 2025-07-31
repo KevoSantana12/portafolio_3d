@@ -18,7 +18,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          Worked with many companies <br /> and picked up many skills along the way
+          Built a solid foundation in areas like teamwork, adaptability, and learning new technologies quickly.
         </p>
 
         <Link to='/about' className='neo-brutalism-white neo-btn'>
