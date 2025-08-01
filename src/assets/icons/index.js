@@ -20,6 +20,8 @@ import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import spring_boot from './spring_boot.svg'
+import noteflow from './noteflow.svg'
+
 
 export {
     css,
@@ -42,5 +44,6 @@ export {
     contact,
     soundon,
     soundoff,
-    spring_boot
+    spring_boot,
+    noteflow
 }

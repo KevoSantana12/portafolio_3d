@@ -22,7 +22,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          ullStack Developer with a solid foundation in data structures, algorithms, and modern software engineering practices. Currently working at TEK Experts as a Tier 2 Technical Support Engineer for Microsoft Intune, where I troubleshoot enterprise-level issues by analyzing system logs, debugging Java code, and resolving REST API-related problems. Proficient in Java, Spring Boot, JavaScript, Angular, React, and SQL. Passionate about building scalable, maintainable applications. As a freelancer, I’ve delivered custom software solutions using tools like Spring Boot, React, Angular, and MySQL.
+          FullStack Developer with a solid foundation in data structures, algorithms, and modern software engineering practices. Currently working at TEK Experts as a Tier 2 Technical Support Engineer for Microsoft Intune, where I troubleshoot enterprise-level issues by analyzing system logs, debugging Java code, and resolving REST API-related problems. Proficient in Java, Spring Boot, JavaScript, Angular, React, and SQL. Passionate about building scalable, maintainable applications. As a freelancer, I’ve delivered custom software solutions using tools like Spring Boot, React, Angular, and MySQL.
         </p>
       </div>
 
@@ -49,7 +49,7 @@ const About = () => {
         <h3 className='subhead-text'>Work Experience.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-            I've worked with all sorts of companies, leveling up my skills and
+            I've worked with tech companies, leveling up my skills and
             teaming up with smart people. Here's the rundown:
           </p>
         </div>

@@ -16,7 +16,8 @@ import {
     tailwindcss,
     threads,
     typescript,
-    spring_boot
+    spring_boot,
+    noteflow
 } from "../assets/icons";
 
 export const skills = [
@@ -116,10 +117,10 @@ export const socialLinks = [
 
 export const projects = [
     {
-        iconUrl: pricewise,
-        theme: 'btn-back-red',
+        iconUrl: noteflow,
+        theme: 'btn-white',
         name: 'Noteflow',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
+        description: 'This is a fully responsive demo landing page designed to showcase the capabilities of an AI-powered writing assistant. The goal was to create a sleek, modern interface that demonstrates how users can generate high-quality written content in seconds using artificial intelligence.',
         link: 'https://eloquent-pothos-2ea258.netlify.app/',
     },
     // {
