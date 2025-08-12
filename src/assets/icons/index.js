@@ -21,6 +21,7 @@ import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import spring_boot from './spring_boot.svg'
 import noteflow from './noteflow.svg'
+import foodie from './foodie.svg'
 
 
 export {
@@ -45,5 +46,6 @@ export {
     soundon,
     soundoff,
     spring_boot,
-    noteflow
+    noteflow,
+    foodie
 }

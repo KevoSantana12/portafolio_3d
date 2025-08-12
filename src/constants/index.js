@@ -17,7 +17,8 @@ import {
     threads,
     typescript,
     spring_boot,
-    noteflow
+    noteflow,
+    foodie
 } from "../assets/icons";
 
 export const skills = [
@@ -123,6 +124,16 @@ export const projects = [
         description: 'This is a fully responsive demo landing page designed to showcase the capabilities of an AI-powered writing assistant. The goal was to create a sleek, modern interface that demonstrates how users can generate high-quality written content in seconds using artificial intelligence.',
         link: 'https://eloquent-pothos-2ea258.netlify.app/',
     },
+    {
+        iconUrl: foodie,
+        theme: 'btn-white',
+        name: 'Foodie',
+        description: 'This is a fully responsive demo landing page designed to showcase the capabilities of Foodie, a modern online food ordering platform. The goal was to create a visually appetizing and user-friendly interface that highlights how customers can browse delicious meals, place orders, and enjoy fresh food delivered to their doorstep in just a few clicks.',
+        link: 'https://yellow-beach-05a856c10.2.azurestaticapps.net/',
+    },
+
+
+
     // {
     //     iconUrl: threads,
     //     theme: 'btn-back-green',
